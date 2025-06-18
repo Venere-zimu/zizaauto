@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>ZizaAuto – Клиент</title>
+  <link rel="icon" href="icons8-ретро-автомобиль-48.png" type="image/png">
+  <link rel="stylesheet" href="client.css">
+</head>
+<body>
+  <header>
+     <img src="logo.png" alt="ZizaAuto" class="logo">
+    <h1>𝚉𝙸𝚉𝙰𝙰𝚄𝚃𝙾</h1>
+  </header>
+
+  <main>
+    <form id="user-auth-form" class="auth-form">
+      <h2>Вход или регистрация</h2>
+      <input type="text" id="user-login" placeholder="Логин" required><br>
+      <input type="password" id="user-password" placeholder="Пароль" required><br>
+      <button type="submit" id="login-btn">Войти</button>
+      <button type="button" id="register-btn">Зарегистрироваться</button>
+      <div id="user-auth-status"></div>
+    </form>
+
+    <section id="car-section" style="display: none;">
+        <Center>
+        <h2>Каталог Автомобилей</h2>
+        </Center>
+      
+      <div id="car-list" class="car-list"></div>
+    </section>
+  </main>
+
+  
+
+  <script src="client.js"></script>
+  <footer>
+    <p>&copy; 2025 ZizaAuto. Все права защищены.</p>
+  </footer>
+</body>
+</html>

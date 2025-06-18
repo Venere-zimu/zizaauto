@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2020,
+    "price": 15000,
+    "image": "https://d8a6a33f-3369-444b-9b5f-793c13ff0708.selcdn.net/media/common/just_strip/tradeins.space/uploads/models_gallery_image/13778/450d7266a8acac506ddc97c36c79cedee2addd42.jpeg?v77",
+    "description": "в отличном состоянии",
+    "mileage": 220000,
+    "bodyType": "хэечбек"
+  },
+  {
+    "id": 1750254634684,
+    "brand": "Mercedes Benz",
+    "model": "E klasse",
+    "year": 2013,
+    "price": 16500,
+    "mileage": 223000,
+    "bodyType": "Cедан",
+    "description": "Дизель 2.4 в хорошем состоянии",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcIIlAsv0VuxJJC-Wlfk1WwTzgkb85a57bZA&s"
+  },
+  {
+    "id": 1750254741620,
+    "brand": "BMW",
+    "model": "M5 F90",
+    "year": 2021,
+    "price": 75000,
+    "mileage": 96000,
+    "bodyType": "Cедан",
+    "description": "Stage 2 m performance 720 л.с",
+    "image": "https://static.wixstatic.com/media/87077e_d0c42c5b6f514dba84293952ed9bc7a2~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg"
+  },
+  {
+    "id": 1750254898450,
+    "brand": "Lexus",
+    "model": "LX 600",
+    "year": 2023,
+    "price": 85000,
+    "mileage": 34320,
+    "bodyType": "Внедорожник",
+    "description": "4.7 бензин 345 л.с",
+    "image": "https://avatars.mds.yandex.net/get-autoru-vos/3910839/0a1dc5332b719fb49a82771717ae4ef4/456x342"
+  },
+  {
+    "id": 1750255027972,
+    "brand": "Ford",
+    "model": "Mustang GT",
+    "year": 2020,
+    "price": 54000,
+    "mileage": 53000,
+    "bodyType": "Купе",
+    "description": "5.0 бензин Mstang shelby",
+    "image": "https://cdn-fastly.autoguide.com/media/2023/06/07/12329680/2020-ford-mustang-gt-review.jpg?size=720x845&nocrop=1"
+  },
+  {
+    "id": 1750255208815,
+    "brand": "Porcshe",
+    "model": "GT 911",
+    "year": 2021,
+    "price": 100000,
+    "mileage": 5000,
+    "bodyType": "Гран-Купе",
+    "description": "4.0 бензин V8 645 л.с",
+    "image": "https://aurupteur.com/uploads/albums/porsche_20992.2_20gt3_202024_2024_10_18_18_02_21/scaled_496_img_87.jpg"
+  },
+  {
+    "id": 1750255360233,
+    "brand": "Lamborghini",
+    "model": "Revuelto",
+    "year": 2024,
+    "price": 110000,
+    "mileage": 123,
+    "bodyType": "Гран-Купе",
+    "description": "5.2 V10 Атмосферный",
+    "image": "https://cdn.motor1.com/images/mgl/40KMWZ/391:0:2339:1755/2024-lamborghini-revuelto-review.webp"
+  },
+  {
+    "id": 1750255502174,
+    "brand": "BMW",
+    "model": "XM",
+    "year": 2023,
+    "price": 85000,
+    "mileage": 15000,
+    "bodyType": "Универсал",
+    "description": "Stage 2 m performance 455 Л.С",
+    "image": "https://avatars.mds.yandex.net/get-autoru-vos/2166045/ee1390b27088abfafe1304c413fca097/456x342"
+  },
+  {
+    "id": 1750255658505,
+    "brand": "SKODA",
+    "model": "Octavia A7",
+    "year": 2017,
+    "price": 15000,
+    "mileage": 154000,
+    "bodyType": "Cедан",
+    "description": "1.8 hockey edition",
+    "image": "https://assets.avtocod.ru/storage/images/articles/ot-hlama-do-eksklyuziva-gid-po-pokupke-skoda-octavia-a7-11.jpg"
+  },
+  {
+    "id": 1750255795967,
+    "brand": "DODGE",
+    "model": "CHARGER",
+    "year": 2018,
+    "price": 35000,
+    "mileage": 78900,
+    "bodyType": "Cедан",
+    "description": "3.6 Demon Edition",
+    "image": "https://s.turbifycdn.com/aah/yhst-59923783762737/2015-2020-dodge-charger-demon-style-front-air-dam-lip-392-srt-hellcat-54.jpg"
+  },
+  {
+    "id": 1750255997256,
+    "brand": "Ferrari",
+    "model": "SF 90 Stradale",
+    "year": 2020,
+    "price": 108000,
+    "mileage": 34000,
+    "bodyType": "Гран-Купе",
+    "description": "V12 Perfomante",
+    "image": "https://www.charles-pozzi.fr/wp-content/uploads/cp_images//1736463600/photo/1479/1/2536_3.jpg"
+  },
+  {
+    "id": 1750256173207,
+    "brand": "ROLLS-ROYCE",
+    "model": "Cullinan",
+    "year": 2021,
+    "price": 95000,
+    "mileage": 45670,
+    "bodyType": "Внедорожник",
+    "description": "V12 700 Л.С",
+    "image": "https://avatars.mds.yandex.net/get-autoru-vos/2181062/93da95eea6aef50937404df84e8d1395/456x342"
+  },
+  {
+    "id": 1750256261001,
+    "brand": "Lada",
+    "model": "Priora",
+    "year": 2014,
+    "price": 8000,
+    "mileage": 180000,
+    "bodyType": "Cедан",
+    "description": "1.6 Инжектор",
+    "image": "https://bezrulya.ru/images/publish/1/1/424/gallery/lada_priora_2013_front_side_main.jpg"
+  },
+  {
+    "id": 1750256384784,
+    "brand": "AUDI",
+    "model": "RS^",
+    "year": 2023,
+    "price": 89000,
+    "mileage": 4000,
+    "bodyType": "Универсал",
+    "description": "RS VERSION",
+    "image": "https://vmscdn.porscheinformatik.com/s2/at/A75A6DB6DC18A3EB9CAA68DEA3DADB67/images/d008f399-c5ae-4966-8b68-8997d8ec5f0e/440"
+  },
+  {
+    "id": 1750256515198,
+    "brand": "HYUNDAI",
+    "model": "ELANTRA",
+    "year": 2025,
+    "price": 35000,
+    "mileage": 0,
+    "bodyType": "Cедан",
+    "description": "Новый 2.0 дизель",
+    "image": "https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/03/1026612.jpg"
+  },
+  {
+    "id": 1750256753974,
+    "brand": "Mercedes Benz",
+    "model": "AMG ONE",
+    "year": 2023,
+    "price": 245000,
+    "mileage": 2300,
+    "bodyType": "sport",
+    "description": "Один из 98 Суперкаров из лимитированной серии",
+    "image": "https://i.pinimg.com/736x/fa/10/ae/fa10ae49f06ddad004e62a2169796ca8.jpg"
+  }
+]

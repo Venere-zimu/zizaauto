@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1750244778855,
+    "password": "12345",
+    "blocked": false
+  },
+  {
+    "id": 1750245260444,
+    "username": "aza",
+    "password": "1221",
+    "blocked": false
+  },
+  {
+    "id": 1750245451913,
+    "username": "ziza",
+    "password": "1111",
+    "blocked": false
+  },
+  {
+    "id": 1750248709576,
+    "username": "zzz",
+    "password": "2222",
+    "blocked": false
+  }
+]
